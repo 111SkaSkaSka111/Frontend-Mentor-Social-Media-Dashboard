@@ -73,6 +73,11 @@ body {
     margin: 0 auto;
 }
 
+.card,
+.card-bottom {
+    box-shadow: 2px 2px 7px var(--text-xl);
+}
+
 .header {
     display: flex;
     flex-direction: column;
